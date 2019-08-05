@@ -1,0 +1,16 @@
+{
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "This is Eric's blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "react",
+    "react-blog"
+  ],
+  "author": "Eric",
+  "license": "ISC"
+}
